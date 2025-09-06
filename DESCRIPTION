@@ -1,4 +1,4 @@
-Package: my_themes
+Package: Rthemes
 Type: Package
 Title: Basic themes for ggplot, tmap, etc
 Version: 1.0
